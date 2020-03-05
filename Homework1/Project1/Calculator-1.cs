@@ -59,13 +59,13 @@ namespace ConsoleApp1
                         Console.WriteLine($"Your result: {num1} + {num2} = " + (num1 + num2));
                         break;
                     case "-":
-                        Console.WriteLine($"Your result: {num1}-{num2}=" + (num1 - num2));
+                        Console.WriteLine($"Your result: {num1} - {num2}=" + (num1 - num2));
                         break;
                     case "*":
-                        Console.WriteLine($"Your result: {num1}×{num2}=" + (num1 * num2));
+                        Console.WriteLine($"Your result: {num1} × {num2}=" + (num1 * num2));
                         break;
                     case "/":
-                        Console.WriteLine($"Your result: {num1}/{num2}=" + (num1 / num2));
+                        Console.WriteLine($"Your result: {num1} / {num2}=" + (num1 / num2));
                         break;
                 }
             }

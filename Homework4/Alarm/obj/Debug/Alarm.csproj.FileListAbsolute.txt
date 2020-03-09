@@ -1,0 +1,6 @@
+C:\Users\GameToGo\Desktop\CSharpHomework-master\Homework4\Alarm\bin\Debug\Alarm.exe.config
+C:\Users\GameToGo\Desktop\CSharpHomework-master\Homework4\Alarm\bin\Debug\Alarm.exe
+C:\Users\GameToGo\Desktop\CSharpHomework-master\Homework4\Alarm\bin\Debug\Alarm.pdb
+C:\Users\GameToGo\Desktop\CSharpHomework-master\Homework4\Alarm\obj\Debug\Alarm.csprojAssemblyReference.cache
+C:\Users\GameToGo\Desktop\CSharpHomework-master\Homework4\Alarm\obj\Debug\Alarm.exe
+C:\Users\GameToGo\Desktop\CSharpHomework-master\Homework4\Alarm\obj\Debug\Alarm.pdb

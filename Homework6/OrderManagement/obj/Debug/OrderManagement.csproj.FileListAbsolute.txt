@@ -1,0 +1,6 @@
+D:\CSharpe\Homework\Homework6\OrderManagement\bin\Debug\OrderManagement.exe.config
+D:\CSharpe\Homework\Homework6\OrderManagement\bin\Debug\OrderManagement.exe
+D:\CSharpe\Homework\Homework6\OrderManagement\bin\Debug\OrderManagement.pdb
+D:\CSharpe\Homework\Homework6\OrderManagement\obj\Debug\OrderManagement.csprojAssemblyReference.cache
+D:\CSharpe\Homework\Homework6\OrderManagement\obj\Debug\OrderManagement.exe
+D:\CSharpe\Homework\Homework6\OrderManagement\obj\Debug\OrderManagement.pdb

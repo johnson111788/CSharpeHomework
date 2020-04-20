@@ -1,0 +1,11 @@
+D:\CSharpe\Homework\Homework6\OrderManagementTests\bin\Debug\OrderManagementTests.dll
+D:\CSharpe\Homework\Homework6\OrderManagementTests\bin\Debug\OrderManagementTests.pdb
+D:\CSharpe\Homework\Homework6\OrderManagementTests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+D:\CSharpe\Homework\Homework6\OrderManagementTests\bin\Debug\OrderManagement.exe
+D:\CSharpe\Homework\Homework6\OrderManagementTests\bin\Debug\OrderManagement.pdb
+D:\CSharpe\Homework\Homework6\OrderManagementTests\bin\Debug\OrderManagement.exe.config
+D:\CSharpe\Homework\Homework6\OrderManagementTests\bin\Debug\zh-Hant\Microsoft.VisualStudio.QualityTools.UnitTestFramework.resources.dll
+D:\CSharpe\Homework\Homework6\OrderManagementTests\obj\Debug\OrderManagementTests.csprojAssemblyReference.cache
+D:\CSharpe\Homework\Homework6\OrderManagementTests\obj\Debug\OrderManagementTests.csproj.CopyComplete
+D:\CSharpe\Homework\Homework6\OrderManagementTests\obj\Debug\OrderManagementTests.dll
+D:\CSharpe\Homework\Homework6\OrderManagementTests\obj\Debug\OrderManagementTests.pdb
